@@ -1,0 +1,37 @@
+.btn {
+    border-width: 3px;
+}
+
+.fa {
+    color: white;
+}
+
+* {
+    font-family: "Microsoft JhengHei";
+}
+
+.carouselP {
+    height: 600px;
+}
+
+.cover {
+    background-size: cover;
+    background-position: center center;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+@media (max-width: 768px) {
+    .text-md-light {
+        color: white;
+        font-weight: bold;
+    }
+}
+
+@media (max-width: 768px) {
+    .text-md-info {
+        color: white;
+    }
+}
